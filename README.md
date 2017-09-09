@@ -1,3 +1,8 @@
 # README.MD
-var people = [["John", "Smith"], ["Jane", "Doe"], ["Emily", "Jones"]]
-console.table(people);
+const teams = [
+   {'team' : 'LA LAKERS', 'city' : 'Los Angels', 'population' : 20000 },
+   {'team' : 'CLEVELAND', 'city' : 'Ohio', 'population' : 22000 },
+   {'team' : 'MIAMI HEAT', 'city' : 'Miami', 'population' : 35000 }
+];
+
+console.table(teams);
